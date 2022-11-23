@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "configurations": [
+        {
+            "name": "Run Prometheus Client",
+            "type": "python",
+            "request": "launch",
+            "program": "/prometheus/workspace/test_server.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
